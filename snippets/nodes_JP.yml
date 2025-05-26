@@ -1,42 +1,42 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 0|🇯🇵日本 101 | 1x JP
-  password: 80870e3d-9a0b-4a30-87f4-fbc5e98982d2
+  name: 0|🇯🇵日本 101 官网：dk75ei.mikasass01....
+  password: 63c266ea-0904-4c3e-a592-a6d08c334746
   port: 31111
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0|🇯🇵日本 102 | 1x JP
-  password: 80870e3d-9a0b-4a30-87f4-fbc5e98982d2
+  name: 0|🇯🇵日本 102 官网：61waf4.mikasass01....
+  password: 63c266ea-0904-4c3e-a592-a6d08c334746
   port: 31113
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0|🇯🇵日本 103 | 1x JP
-  password: 80870e3d-9a0b-4a30-87f4-fbc5e98982d2
+  name: 0|🇯🇵日本 103 官网：7usu51.mikasass.pr...
+  password: 63c266ea-0904-4c3e-a592-a6d08c334746
   port: 31115
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '1|12 🇯🇵 日本 01 官网 : allbluecloud....'
-  password: db47a66c-cf14-4603-90b8-eeb5578e5a94
+  name: 1|🇯🇵 日本 01 官网：l4yb6d.allbluess.p...
+  password: fb42ef44-df38-456c-882f-ca6de1fbbe87
   port: 36111
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '1|13 🇯🇵 日本 02 官网 : allbluecloud....'
-  password: db47a66c-cf14-4603-90b8-eeb5578e5a94
+  name: 1|🇯🇵 日本 02 官网：23wdvq.allbluess.p...
+  password: fb42ef44-df38-456c-882f-ca6de1fbbe87
   port: 36113
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '1|14 🇯🇵 日本 03 官网 : allbluecloud....'
-  password: db47a66c-cf14-4603-90b8-eeb5578e5a94
+  name: 1|🇯🇵 日本 03 官网：0elnzb.allbluess.p...
+  password: fb42ef44-df38-456c-882f-ca6de1fbbe87
   port: 36115
   server: freea.glyphara.com
   type: ss
