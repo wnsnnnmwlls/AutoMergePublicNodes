@@ -1,4 +1,25 @@
 proxies:
+- cipher: chacha20-ietf-poly1305
+  name: 0|11🇯🇵日本|官网：a5b3cloud.pro
+  password: 50d96f3e-0ac9-4b1f-8cfd-cbaca84d9155
+  port: 36111
+  server: freea.glyphara.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|12🇯🇵日本|官网：蓝色海洋.xyz
+  password: 50d96f3e-0ac9-4b1f-8cfd-cbaca84d9155
+  port: 36113
+  server: freea.glyphara.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|13🇯🇵日本|官网：蓝色海洋.xyz
+  password: 50d96f3e-0ac9-4b1f-8cfd-cbaca84d9155
+  port: 36115
+  server: freea.glyphara.com
+  type: ss
+  udp: true
 - alterId: 64
   cipher: auto
   name: 1|🇯🇵1 |  1.8MB/s|54%|Youtube|Ope...
@@ -15,9 +36,30 @@ proxies:
     headers:
       Host: centos7
     path: /634c5c4f9782
+- cipher: chacha20-ietf-poly1305
+  name: 2|10🇯🇵日本|官网：mikasacloud.site
+  password: 6e0907b4-413e-45b7-a015-fc2244459b04
+  port: 31111
+  server: freem.vidalith.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|11🇯🇵日本|官网：米卡莎.xyz
+  password: 6e0907b4-413e-45b7-a015-fc2244459b04
+  port: 31113
+  server: freem.vidalith.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|12🇯🇵日本|官网：m5c3cloud.pro
+  password: 6e0907b4-413e-45b7-a015-fc2244459b04
+  port: 31115
+  server: freem.vidalith.com
+  type: ss
+  udp: true
 - cipher: rc4-md5
   client-fingerprint: chrome
-  name: 11|🇯🇵 日本|@ripaojiedian
+  name: 12|🇯🇵 日本|@ripaojiedian
   password: efanccyun
   plugin: obfs
   plugin-opts:
@@ -29,7 +71,7 @@ proxies:
   type: ss
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 11|🇯🇵 日本2|@ripaojiedian
+  name: 12|🇯🇵 日本2|@ripaojiedian
   password: 04e28ee6e6b0
   plugin: v2ray-plugin
   plugin-opts:
@@ -46,7 +88,7 @@ proxies:
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
-  name: 11|🇯🇵 日本3|@ripaojiedian
+  name: 12|🇯🇵 日本3|@ripaojiedian
   port: 55002
   server: 183.237.84.53
   skip-cert-verify: false
@@ -56,7 +98,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 64
   cipher: auto
-  name: 12|日本3|@ripaojiedian
+  name: 13|日本3|@ripaojiedian
   network: tcp
   port: '55002'
   server: 183.237.84.53
@@ -66,7 +108,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: 12|日本5|@ripaojiedian
+  name: 13|日本5|@ripaojiedian
   network: kcp
   port: '53893'
   server: 47.74.41.147
@@ -74,7 +116,7 @@ proxies:
   tls: false
   type: vmess
   uuid: 07287360-e12f-4f94-9c7a-54386c100d8a
-- name: 13|JP_speednode_0148
+- name: 14|JP_speednode_0148
   network: ws
   port: 8880
   server: 103.116.7.19
@@ -88,7 +130,7 @@ proxies:
     headers:
       Host: reedfree8mahsang2.redorg.ir
     path: /Telegram🇨🇳 @pgkj666 /?ed=2560
-- name: 13|JP_speednode_0149
+- name: 14|JP_speednode_0149
   network: ws
   port: 8880
   server: 103.116.7.29
@@ -102,7 +144,7 @@ proxies:
     headers:
       Host: hk.laoyoutiao.link
     path: /TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560
-- name: 13|JP_speednode_0150
+- name: 14|JP_speednode_0150
   network: ws
   port: 8880
   server: 103.116.7.19
@@ -116,24 +158,3 @@ proxies:
     headers:
       Host: reedfree8mahsang2.redorg.ir
     path: /TelegramU0001F1E8U0001F1F3 @pgkj666 /?ed=2560
-- cipher: chacha20-ietf-poly1305
-  name: 14|🇯🇵日本 101 官网：https://rtcsex.m5c...
-  password: 9e2929e9-2de5-47cf-96da-94d83101c5b3
-  port: 31111
-  server: freem.vidalith.com
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 14|🇯🇵日本 102 官网：https://rjectv.mik...
-  password: 9e2929e9-2de5-47cf-96da-94d83101c5b3
-  port: 31113
-  server: freem.vidalith.com
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 14|🇯🇵日本 103 官网：https://p63nk8.mik...
-  password: 9e2929e9-2de5-47cf-96da-94d83101c5b3
-  port: 31115
-  server: freem.vidalith.com
-  type: ss
-  udp: true
