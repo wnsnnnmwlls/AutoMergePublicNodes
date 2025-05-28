@@ -1,7 +1,7 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 1|24🇬🇧英国家宽|官网：米卡莎.xyz
-  password: 3cee7d64-c39e-4cd6-a26b-fd28f964c7f2
+  name: 0|24🇬🇧英国家宽|官网：米卡莎.xyz
+  password: c2829cfb-0b80-4afb-b803-b60829dfdcb4
   port: 31271
   server: freem.vidalith.com
   type: ss

@@ -1,7 +1,7 @@
 proxies:
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 1|3🇭🇰香港01|官网：米卡莎.xyz
+  name: 0|3🇭🇰香港01|官网：mikasacloud.site
   port: 21141
   reality-opts:
     public-key: Eups6Prbvg15cmO6xyumiyHSDnXyxdPpHot__djonlo
@@ -12,10 +12,10 @@ proxies:
   tls: true
   type: vless
   udp: true
-  uuid: 3cee7d64-c39e-4cd6-a26b-fd28f964c7f2
+  uuid: c2829cfb-0b80-4afb-b803-b60829dfdcb4
 - cipher: chacha20-ietf-poly1305
-  name: 1|24🇬🇧英国家宽|官网：米卡莎.xyz
-  password: 3cee7d64-c39e-4cd6-a26b-fd28f964c7f2
+  name: 0|24🇬🇧英国家宽|官网：米卡莎.xyz
+  password: c2829cfb-0b80-4afb-b803-b60829dfdcb4
   port: 31271
   server: freem.vidalith.com
   type: ss

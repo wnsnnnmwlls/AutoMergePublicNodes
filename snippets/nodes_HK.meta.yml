@@ -1,7 +1,56 @@
 proxies:
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 0|4🇭🇰香港02|官网：m5c3cloud.pro
+  port: 21143
+  reality-opts:
+    public-key: Aefu3IA6fk1vUQio476AwY4NSshxmjjEpeWrvaqAtWg
+    short-id: f9d7069c
+  server: freem.vidalith.com
+  servername: learn.microsoft.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: c2829cfb-0b80-4afb-b803-b60829dfdcb4
+- client-fingerprint: edge
+  flow: xtls-rprx-vision
+  name: 0|5🇭🇰香港03|官网：mikasacloud.site
+  port: 21145
+  reality-opts:
+    public-key: _5oMsSEfgBhN4ZMasEwrUqss5GQkKdAtgoH2MzEVRA0
+    short-id: 66c3d76e
+  server: freem.vidalith.com
+  servername: addons.mozilla.org
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: c2829cfb-0b80-4afb-b803-b60829dfdcb4
+- cipher: chacha20-ietf-poly1305
+  name: 0|6🇭🇰香港|官网：m5c3cloud.pro
+  password: c2829cfb-0b80-4afb-b803-b60829dfdcb4
+  port: 31141
+  server: freem.vidalith.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|7🇭🇰香港|官网：米卡莎.xyz
+  password: c2829cfb-0b80-4afb-b803-b60829dfdcb4
+  port: 31143
+  server: freem.vidalith.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|8🇭🇰香港家宽|官网：m5c3cloud.pro
+  password: c2829cfb-0b80-4afb-b803-b60829dfdcb4
+  port: 31145
+  server: freem.vidalith.com
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
-  name: 0|🇭🇰1 |  1.8MB/s|15%|Disney|Yout...
+  name: 1|🇭🇰1 |  1.8MB/s|15%|Disney|Yout...
   network: ws
   port: 8080
   server: bc842b49-swexs0-t1rt5e-1s09x.hgc1.tcpbbr.net
@@ -13,55 +62,6 @@ proxies:
     headers:
       Host: broadcastlv.chat.bilibili.com
     path: /
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 1|4🇭🇰香港02|官网：m5c3cloud.pro
-  port: 21143
-  reality-opts:
-    public-key: Aefu3IA6fk1vUQio476AwY4NSshxmjjEpeWrvaqAtWg
-    short-id: f9d7069c
-  server: freem.vidalith.com
-  servername: learn.microsoft.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 3cee7d64-c39e-4cd6-a26b-fd28f964c7f2
-- client-fingerprint: edge
-  flow: xtls-rprx-vision
-  name: 1|5🇭🇰香港03|官网：m5c3cloud.pro
-  port: 21145
-  reality-opts:
-    public-key: _5oMsSEfgBhN4ZMasEwrUqss5GQkKdAtgoH2MzEVRA0
-    short-id: 66c3d76e
-  server: freem.vidalith.com
-  servername: addons.mozilla.org
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 3cee7d64-c39e-4cd6-a26b-fd28f964c7f2
-- cipher: chacha20-ietf-poly1305
-  name: 1|6🇭🇰香港|官网：mikasacloud.site
-  password: 3cee7d64-c39e-4cd6-a26b-fd28f964c7f2
-  port: 31141
-  server: freem.vidalith.com
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 1|7🇭🇰香港|官网：mikasacloud.site
-  password: 3cee7d64-c39e-4cd6-a26b-fd28f964c7f2
-  port: 31143
-  server: freem.vidalith.com
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 1|8🇭🇰香港家宽|官网：米卡莎.xyz
-  password: 3cee7d64-c39e-4cd6-a26b-fd28f964c7f2
-  port: 31145
-  server: freem.vidalith.com
-  type: ss
-  udp: true
 - name: '10|Channel id: @ShadowProxy66🇭🇰'
   password: NTA0MDg5OjEzMzI4ODo3YjA2ZDIyYThhN2M3NjRm
   port: 3074
