@@ -1,9 +1,9 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 0|30🇷🇺俄罗斯|官网：蓝色海洋.xyz
-  password: c011cd43-20da-434d-8b67-7ea9a2f81a77
-  port: 36511
-  server: freea.glyphara.com
+  name: 0|34🇷🇺俄罗斯|官网：mikasacloud.site
+  password: 6e11bfbf-6753-4351-b986-b4d01e6c7198
+  port: 31511
+  server: freem.vidalith.com
   type: ss
   udp: true
 - alpn:
@@ -38,7 +38,7 @@ proxies:
   sni: dxobg4azmk.gafnode.sbs
   tls: false
   type: hysteria2
-- name: 13|RU_speednode_0116
+- name: 13|RU_speednode_0091
   network: ws
   port: 8880
   server: 5.182.84.20
@@ -53,9 +53,9 @@ proxies:
       Host: us.laoyoutiao.link
     path: /TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560
 - cipher: chacha20-ietf-poly1305
-  name: 14|34🇷🇺俄罗斯|官网：mikasacloud.site
-  password: 612528fa-83c2-4809-9dd7-7e1c95e5afa9
-  port: 31511
-  server: freem.vidalith.com
+  name: 14|30🇷🇺俄罗斯|官网：蓝色海洋.xyz
+  password: 820677ab-613b-4b67-9d84-cc43c0b5f1ff
+  port: 36511
+  server: freea.glyphara.com
   type: ss
   udp: true
