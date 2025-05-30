@@ -1,4 +1,11 @@
 proxies:
+- cipher: chacha20-ietf-poly1305
+  name: 0|4🇭🇰香港|官网：mikasacloud.site
+  password: 358bb40f-5718-4163-94d0-be0e6e48395d
+  port: 31141
+  server: freem.vidalith.com
+  type: ss
+  udp: true
 - name: 14|GB_speednode_0055
   network: ws
   port: 8880
