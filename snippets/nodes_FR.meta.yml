@@ -107,7 +107,7 @@ proxies:
     path: /
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 13|FR_speednode_0069
+  name: 12|FR_speednode_0069
   port: 443
   server: 144.24.206.147
   servername: b2-9fr5232-96bh.xn--4gq62f52gppi29k.com
