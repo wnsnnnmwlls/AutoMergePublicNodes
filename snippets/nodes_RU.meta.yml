@@ -1,16 +1,16 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 0|30🇷🇺俄罗斯|官网：mikasacloud.site
-  password: 9ea8882e-b7a2-4499-af92-09cfe7937722
-  port: 31511
-  server: freem.vidalith.com
+  name: 0|29🇷🇺俄罗斯|官网：蓝色海洋.xyz
+  password: a2b63a07-4732-47c1-bde7-eb75144303df
+  port: 36511
+  server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|29🇷🇺俄罗斯|官网：蓝色海洋.xyz
-  password: 1a714e69-8688-491f-b696-4373ff9d3306
-  port: 36511
-  server: freea.glyphara.com
+  name: 1|30🇷🇺俄罗斯|官网：m5c3cloud.pro
+  password: 96ea1171-40f5-4d4b-8f81-f846e9d2c7ba
+  port: 31511
+  server: freem.vidalith.com
   type: ss
   udp: true
 - alpn:
