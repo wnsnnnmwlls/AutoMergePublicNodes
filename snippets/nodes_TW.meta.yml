@@ -1,27 +1,27 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 0|7🇹🇼台湾|官网：米卡莎.xyz
-  password: e216c21a-2f49-4729-b6fc-00bfc3bfd269
+  name: 1|7🇹🇼台湾|官网：米卡莎.xyz
+  password: 3680fe3b-50b5-4a8c-a621-91108260515d
   port: 31241
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0|8🇹🇼台湾|官网：mikasacloud.site
-  password: e216c21a-2f49-4729-b6fc-00bfc3bfd269
+  name: 1|8🇹🇼台湾|官网：米卡莎.xyz
+  password: 3680fe3b-50b5-4a8c-a621-91108260515d
   port: 31243
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0|9🇹🇼台湾|官网：m5c3cloud.pro
-  password: e216c21a-2f49-4729-b6fc-00bfc3bfd269
+  name: 1|9🇹🇼台湾|官网：m5c3cloud.pro
+  password: 3680fe3b-50b5-4a8c-a621-91108260515d
   port: 31245
   server: freem.vidalith.com
   type: ss
   udp: true
 - client-fingerprint: chrome
-  name: 1|🇹🇼1 |  1.4MB/s|0%|Netflix|Yout...
+  name: 2|🇹🇼1 |  1.4MB/s|0%|Netflix|Yout...
   password: exaxgqkKkd0TAMrCxeonWg==
   port: 1443
   server: twmoon1-cdn-route.couldflare-cdn.com
