@@ -1,11 +1,4 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
-  name: 0|5🇭🇰香港|官网：a5b3cloud.pro
-  password: 7dd491ca-1796-45f2-a2aa-b65ab79bda17
-  port: 36141
-  server: freea.glyphara.com
-  type: ss
-  udp: true
 - name: 14|GB_speednode_0037
   network: ws
   port: 8880
