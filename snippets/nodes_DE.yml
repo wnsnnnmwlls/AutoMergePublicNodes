@@ -1,9 +1,16 @@
 proxies:
+- cipher: chacha20-ietf-poly1305
+  name: 0|29🇩🇪德国|官网：米卡莎.xyz
+  password: a6a59fd7-343a-4f72-852e-8c17be6733e8
+  port: 31471
+  server: freem.vidalith.com
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
   grpc-opts:
     grpc-service-name: vmess-grpc
-  name: 1|🇩🇪5 |  1.4MB/s|0%|Youtube|Open...
+  name: 2|🇩🇪5 |  1.4MB/s|0%|Youtube|Open...
   network: grpc
   port: 443
   server: de.vmess.comnpmjs.com

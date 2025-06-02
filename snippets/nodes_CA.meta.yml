@@ -1,4 +1,11 @@
 proxies:
+- cipher: chacha20-ietf-poly1305
+  name: 0|28🇨🇦加拿大|官网：mikasacloud.site
+  password: a6a59fd7-343a-4f72-852e-8c17be6733e8
+  port: 31441
+  server: freem.vidalith.com
+  type: ss
+  udp: true
 - name: '11|Channel id: @ShadowProxy66🇨🇦'
   password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
   port: 45979

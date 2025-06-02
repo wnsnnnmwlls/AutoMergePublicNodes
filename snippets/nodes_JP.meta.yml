@@ -1,7 +1,28 @@
 proxies:
+- cipher: chacha20-ietf-poly1305
+  name: 0|10🇯🇵日本|官网：米卡莎.xyz
+  password: a6a59fd7-343a-4f72-852e-8c17be6733e8
+  port: 31111
+  server: freem.vidalith.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|11🇯🇵日本|官网：m5c3cloud.pro
+  password: a6a59fd7-343a-4f72-852e-8c17be6733e8
+  port: 31113
+  server: freem.vidalith.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|12🇯🇵日本|官网：m5c3cloud.pro
+  password: a6a59fd7-343a-4f72-852e-8c17be6733e8
+  port: 31115
+  server: freem.vidalith.com
+  type: ss
+  udp: true
 - alterId: 64
   cipher: auto
-  name: 1|🇯🇵1 |  1.8MB/s|54%|Youtube|Ope...
+  name: 2|🇯🇵1 |  1.8MB/s|54%|Youtube|Ope...
   network: ws
   port: 1443
   server: sslvpn.51job.com
