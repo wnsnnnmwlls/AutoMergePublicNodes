@@ -1,5 +1,5 @@
 proxies:
-- name: 14|GB_speednode_0045
+- name: 12|GB_speednode_0045
   network: ws
   port: 8880
   server: 94.247.142.20
@@ -13,7 +13,7 @@ proxies:
     headers:
       Host: reedfree8mahsang2.redorg.ir
     path: /?ed=2560
-- name: 14|GB_speednode_0046
+- name: 12|GB_speednode_0046
   network: ws
   port: 8880
   server: 194.36.55.48
@@ -27,7 +27,7 @@ proxies:
     headers:
       Host: reedfree8mahsang2.redorg.ir
     path: /@ShadowProxy66?ed=2560
-- name: 14|GB_speednode_0047
+- name: 12|GB_speednode_0047
   network: ws
   port: 8880
   server: 91.193.58.64
@@ -41,7 +41,7 @@ proxies:
     headers:
       Host: us.laoyoutiao.link
     path: /
-- name: 14|GB_speednode_0048
+- name: 12|GB_speednode_0048
   network: ws
   port: 8880
   server: 91.193.58.134
@@ -55,7 +55,7 @@ proxies:
     headers:
       Host: us.laoyoutiao.link
     path: /
-- name: 14|GB_speednode_0049
+- name: 12|GB_speednode_0049
   network: ws
   port: 8880
   server: 91.193.58.245
@@ -69,7 +69,7 @@ proxies:
     headers:
       Host: us.laoyoutiao.link
     path: /
-- name: 14|GB_speednode_0050
+- name: 12|GB_speednode_0050
   network: ws
   port: 8880
   server: 91.193.58.69
@@ -83,7 +83,7 @@ proxies:
     headers:
       Host: cs.laoyoutiao.link
     path: /
-- name: 14|GB_speednode_0051
+- name: 12|GB_speednode_0051
   network: ws
   port: 8880
   server: 91.193.58.79
@@ -97,7 +97,7 @@ proxies:
     headers:
       Host: us.laoyoutiao.link
     path: /
-- name: 14|GB_speednode_0052
+- name: 12|GB_speednode_0052
   network: ws
   port: 8880
   server: 91.193.58.63
@@ -111,7 +111,7 @@ proxies:
     headers:
       Host: us.laoyoutiao.link
     path: /
-- name: 14|GB_speednode_0053
+- name: 12|GB_speednode_0053
   network: ws
   port: 8880
   server: 91.193.58.78
