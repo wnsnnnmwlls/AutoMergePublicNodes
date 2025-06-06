@@ -1,7 +1,7 @@
 proxies:
 - alterId: 64
   cipher: auto
-  name: 0|🇯🇵1 |  1.8MB/s|54%|Youtube|Ope...
+  name: 1|🇯🇵1 |  1.8MB/s|54%|Youtube|Ope...
   network: ws
   port: 1443
   server: sslvpn.51job.com
@@ -17,7 +17,7 @@ proxies:
     path: /634c5c4f9782
 - cipher: rc4-md5
   client-fingerprint: chrome
-  name: 11|🇯🇵 日本|@ripaojiedian
+  name: 12|🇯🇵 日本|@ripaojiedian
   password: efanccyun
   plugin: obfs
   plugin-opts:
@@ -29,7 +29,7 @@ proxies:
   type: ss
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 11|🇯🇵 日本2|@ripaojiedian
+  name: 12|🇯🇵 日本2|@ripaojiedian
   password: 60a930c17ff0
   plugin: v2ray-plugin
   plugin-opts:
@@ -45,7 +45,7 @@ proxies:
   type: ss
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 11|🇯🇵 日本3|@ripaojiedian
+  name: 12|🇯🇵 日本3|@ripaojiedian
   password: feafc2ef-d5fd-4f6d-803b-fad4a5cc1f0e
   port: 19832
   server: h.cm2.xiaomi-api.xyz
@@ -53,7 +53,7 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: 12|日本V2|@ripaojiedian
+  name: 13|日本V2|@ripaojiedian
   network: kcp
   port: '50951'
   server: 8.211.154.107
