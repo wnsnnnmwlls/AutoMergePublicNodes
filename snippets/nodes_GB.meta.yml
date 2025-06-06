@@ -1,11 +1,4 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
-  name: 2|5🇭🇰香港|官网：abluecloud.xyz
-  password: d39ff7d5-6ac7-4917-803e-b69f43f13376
-  port: 36141
-  server: freea.glyphara.com
-  type: ss
-  udp: true
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: 14|GB_speednode_0017
