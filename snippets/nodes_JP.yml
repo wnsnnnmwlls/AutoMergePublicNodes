@@ -1,4 +1,46 @@
 proxies:
+- cipher: chacha20-ietf-poly1305
+  name: 0|11🇯🇵日本|官网：abluecloud.xyz
+  password: e2040f44-93ec-41d9-8821-fba6f4fe8b8e
+  port: 36111
+  server: freea.glyphara.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|12🇯🇵日本|官网：abluecloud.xyz
+  password: e2040f44-93ec-41d9-8821-fba6f4fe8b8e
+  port: 36113
+  server: freea.glyphara.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|13🇯🇵日本|官网：abluecloud.xyz
+  password: e2040f44-93ec-41d9-8821-fba6f4fe8b8e
+  port: 36115
+  server: freea.glyphara.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 1|10🇯🇵日本|官网：mikasacloud.site
+  password: 446b55ce-60ea-4017-8e23-5649c66b1feb
+  port: 31111
+  server: freem.vidalith.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 1|11🇯🇵日本|官网：mikasacloud.site
+  password: 446b55ce-60ea-4017-8e23-5649c66b1feb
+  port: 31113
+  server: freem.vidalith.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 1|12🇯🇵日本|官网：mikasacloud.site
+  password: 446b55ce-60ea-4017-8e23-5649c66b1feb
+  port: 31115
+  server: freem.vidalith.com
+  type: ss
+  udp: true
 - alterId: 64
   cipher: auto
   name: 2|🇯🇵1 |  1.8MB/s|54%|Youtube|Ope...
