@@ -1,11 +1,4 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
-  name: 2|28🇨🇦加拿大|官网：m5c3cloud.pro
-  password: 0aff11a0-e701-402a-bbe2-35fd4e351cf9
-  port: 31441
-  server: freem.vidalith.com
-  type: ss
-  udp: true
 - name: '11|Channel id: @ShadowProxy66🇨🇦'
   password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
   port: 45979
