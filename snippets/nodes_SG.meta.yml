@@ -37,20 +37,6 @@ proxies:
     headers:
       Host: reedfree8mahsang2.redorg.ir
     path: /?ed=2560
-- cipher: chacha20-ietf-poly1305
-  name: 2|14🇸🇬新加坡|官网：a5b3cloud.pro
-  password: ac47e97f-b8bf-45f9-a94b-e9a8cf88a9b7
-  port: 36171
-  server: freea.glyphara.com
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|15🇸🇬新加坡|官网：abluecloud.xyz
-  password: ac47e97f-b8bf-45f9-a94b-e9a8cf88a9b7
-  port: 36173
-  server: freea.glyphara.com
-  type: ss
-  udp: true
 - name: '11|Channel id: @ShadowProxy66🇸🇬'
   password: 9FmazX8AAPpM8TQcNyI2zvBDF5o
   port: 28264
