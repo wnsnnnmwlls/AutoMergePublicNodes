@@ -1,7 +1,7 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
   name: 0|29🇩🇪德国|官网：m5c3cloud.pro
-  password: 6962cad0-febb-4c2d-b4e2-97e0bcd810b8
+  password: 47c29827-f302-4dcc-915e-016fb9e3841c
   port: 31471
   server: freem.vidalith.com
   type: ss
@@ -93,8 +93,8 @@ proxies:
   uuid: b8bd42a9-551f-419d-b70d-4aefdd2cb074
   xudp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|28🇩🇪德国|官网：a5b3cloud.pro
-  password: ffb2d00e-c6ae-4b5c-81e3-33a7729a04bd
+  name: 2|28🇩🇪德国|官网：蓝色海洋.xyz
+  password: ae0c5e75-778f-4362-83af-c862ab864751
   port: 36471
   server: freea.glyphara.com
   type: ss
