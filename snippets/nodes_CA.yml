@@ -1,8 +1,1 @@
-proxies:
-- cipher: chacha20-ietf-poly1305
-  name: 1|27🇨🇦加拿大|官网：abluecloud.xyz
-  password: 36f4c65b-b6e6-467b-acf9-16117413d055
-  port: 36441
-  server: freea.glyphara.com
-  type: ss
-  udp: true
+proxies: []
