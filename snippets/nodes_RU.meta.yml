@@ -3,7 +3,7 @@ proxies:
   - h3
   client-fingerprint: chrome
   disable-sni: false
-  name: 1|🇷🇺1 |  2.5MB/s|50%
+  name: 2|🇷🇺1 |  2.5MB/s|50%
   password: f3ba3679-f2f4-465f-92a5-de320b775a88
   port: 43516
   reduce-rtt: false
@@ -15,10 +15,3 @@ proxies:
   udp-relay-mode: native
   uuid: f3ba3679-f2f4-465f-92a5-de320b775a88
   version: 5
-- cipher: chacha20-ietf-poly1305
-  name: 14|30🇷🇺俄罗斯|官网：米卡莎.xyz
-  password: af14b09c-4178-49e9-9478-4bed1d6eeee9
-  port: 31511
-  server: freem.vidalith.com
-  type: ss
-  udp: true

@@ -1,8 +1,1 @@
-proxies:
-- cipher: chacha20-ietf-poly1305
-  name: 14|30🇷🇺俄罗斯|官网：米卡莎.xyz
-  password: af14b09c-4178-49e9-9478-4bed1d6eeee9
-  port: 31511
-  server: freem.vidalith.com
-  type: ss
-  udp: true
+proxies: []
