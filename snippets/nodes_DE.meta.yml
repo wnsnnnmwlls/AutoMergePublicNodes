@@ -85,16 +85,15 @@ proxies:
   udp: true
   uuid: b8bd42a9-551f-419d-b70d-4aefdd2cb074
   xudp: true
-- name: '10|Channel id: @ShadowProxy66🇩🇪'
-  password: 53bdfd4a-7f38-4cb6-b07e-49974de1a800
-  port: 25560
-  server: 152.53.225.161
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
+- cipher: chacha20-ietf-poly1305
+  name: 2|29🇩🇪德国|官网：米卡莎.xyz
+  password: d67e8361-f0f6-482a-8116-2f733a2ee183
+  port: 31471
+  server: freem.vidalith.com
+  type: ss
+  udp: true
 - client-fingerprint: chrome
-  name: 13|DE_speednode_0011
+  name: 14|DE_speednode_0011
   network: ws
   port: 443
   server: 5.39.249.146

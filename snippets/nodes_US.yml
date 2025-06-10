@@ -35,9 +35,30 @@ proxies:
   sni: 4560c642-swin40-tjuq6l-wf62.cu.plebai.net
   type: trojan
   udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|19🇺🇸美国|官网：米卡莎.xyz
+  password: d67e8361-f0f6-482a-8116-2f733a2ee183
+  port: 31211
+  server: freem.vidalith.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|20🇺🇸美国家宽|官网：米卡莎.xyz
+  password: d67e8361-f0f6-482a-8116-2f733a2ee183
+  port: 31213
+  server: freem.vidalith.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|21🇺🇸美国|官网：米卡莎.xyz
+  password: d67e8361-f0f6-482a-8116-2f733a2ee183
+  port: 31215
+  server: freem.vidalith.com
+  type: ss
+  udp: true
 - cipher: rc4-md5
   client-fingerprint: chrome
-  name: 11|🇺🇸 美国2|@ripaojiedian
+  name: 12|🇺🇸 美国2|@ripaojiedian
   password: efanccyun
   plugin: obfs
   plugin-opts:
@@ -50,7 +71,7 @@ proxies:
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
-  name: 11,12|美国|@ripaojiedian
+  name: 12,13|美国|@ripaojiedian
   network: ws
   port: '30832'
   server: v32.heduian.link
@@ -67,7 +88,7 @@ proxies:
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
-  name: 11,12|美国3|@ripaojiedian
+  name: 12,13|美国3|@ripaojiedian
   network: ws
   port: '30824'
   server: v24.heduian.link
@@ -84,7 +105,7 @@ proxies:
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
-  name: 11,12|美国4|@ripaojiedian
+  name: 12,13|美国4|@ripaojiedian
   network: ws
   port: '22643'
   server: tk.hzlt.tkddns.xyz
@@ -98,7 +119,7 @@ proxies:
     headers:
       Host: zxjp-c.tkong.cc
     path: /
-- name: 13|US_speednode_0065
+- name: 14|US_speednode_0065
   network: ws
   password: 0bf83a1d-f785-487a-a479-3c3de2566ba6
   port: 443

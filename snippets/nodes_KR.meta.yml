@@ -31,8 +31,22 @@ proxies:
     headers:
       Host: reedfree8mahsang2.redorg.ir
     path: /?ed=2560
+- cipher: chacha20-ietf-poly1305
+  name: 2|16🇰🇷韩国|官网：米卡莎.xyz
+  password: d67e8361-f0f6-482a-8116-2f733a2ee183
+  port: 31311
+  server: freem.vidalith.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|17🇰🇷韩国|官网：米卡莎.xyz
+  password: d67e8361-f0f6-482a-8116-2f733a2ee183
+  port: 31313
+  server: freem.vidalith.com
+  type: ss
+  udp: true
 - client-fingerprint: chrome
-  name: 11,12|韩国|@ripaojiedian
+  name: 12,13|韩国|@ripaojiedian
   network: tcp
   password: 85f133142f04dbf6547da33895cfabb3
   port: 39001
@@ -42,13 +56,13 @@ proxies:
   type: trojan
 - cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 11|🇰🇷 韩国2|@ripaojiedian
+  name: 12|🇰🇷 韩国2|@ripaojiedian
   password: qwerREWQ@@
   port: 36379
   server: p080.panda001.net
   tfo: false
   type: ss
-- name: 13|KR_speednode_0023
+- name: 14|KR_speednode_0023
   network: ws
   port: 21789
   server: 183.100.144.36
@@ -62,7 +76,7 @@ proxies:
     headers:
       Host: steep.skyfigure.top
     path: /Telegram🇨🇳 @pgkj666 /?ed=2560
-- name: 13|KR_speednode_0024
+- name: 14|KR_speednode_0024
   network: ws
   port: 443
   server: 158.179.171.53
