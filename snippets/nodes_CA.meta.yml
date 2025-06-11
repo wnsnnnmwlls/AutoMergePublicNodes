@@ -1,5 +1,12 @@
 proxies:
-- name: '10|Channel id: @ShadowProxy66🇨🇦'
+- cipher: chacha20-ietf-poly1305
+  name: 0|27🇨🇦加拿大|官网：a5b3cloud.pro
+  password: ba912964-0563-431a-92d2-a958af9ad097
+  port: 36441
+  server: freea.glyphara.com
+  type: ss
+  udp: true
+- name: '11|Channel id: @ShadowProxy66🇨🇦'
   password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
   port: 45979
   server: 40.233.70.163
@@ -7,10 +14,3 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- cipher: chacha20-ietf-poly1305
-  name: 14|27🇨🇦加拿大|官网：a5b3cloud.pro
-  password: e0f27f5b-0d13-4bb3-99ec-906f2fb15820
-  port: 36441
-  server: freea.glyphara.com
-  type: ss
-  udp: true
