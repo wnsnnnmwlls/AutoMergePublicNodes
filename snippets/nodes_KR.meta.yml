@@ -1,18 +1,4 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇰🇷韩国 101 | 1x KR
-  password: 60772f7d-4db5-49d5-88e9-d2057b8079c1
-  port: 31311
-  server: freem.vidalith.com
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇰🇷韩国 102 | 1x KR
-  password: 60772f7d-4db5-49d5-88e9-d2057b8079c1
-  port: 31313
-  server: freem.vidalith.com
-  type: ss
-  udp: true
 - name: 1|🇰🇷1 |  1.3MB/s|61%|Disney|Open...
   network: ws
   port: 8880
@@ -45,6 +31,20 @@ proxies:
     headers:
       Host: reedfree8mahsang2.redorg.ir
     path: /?ed=2560
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇰🇷韩国 101 | 1x KR
+  password: ba012194-aa4a-4165-9af3-212a57d5ff4e
+  port: 31311
+  server: freem.vidalith.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇰🇷韩国 102 | 1x KR
+  password: ba012194-aa4a-4165-9af3-212a57d5ff4e
+  port: 31313
+  server: freem.vidalith.com
+  type: ss
+  udp: true
 - client-fingerprint: chrome
   name: 12,13|韩国|@ripaojiedian
   network: tcp
