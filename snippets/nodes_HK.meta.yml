@@ -1,4 +1,18 @@
 proxies:
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇭🇰香港 102 | 1x HK
+  password: cb2b2f72-2fe3-4fe7-b9d9-00d1384d07e4
+  port: 31143
+  server: freem.vidalith.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇭🇰香港家宽 103 | 1x HK
+  password: cb2b2f72-2fe3-4fe7-b9d9-00d1384d07e4
+  port: 31145
+  server: freem.vidalith.com
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
   name: 1|🇭🇰1 |  1.8MB/s|15%|Disney|Yout...
@@ -16,7 +30,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 12|🇭🇰 香港7|@ripaojiedian
+  name: 11|🇭🇰 香港7|@ripaojiedian
   port: 20332
   server: 43.247.135.2
   skip-cert-verify: false
@@ -26,7 +40,7 @@ proxies:
   uuid: 8037ce00-c860-4213-b888-be5c7ed6ea48
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 12|🇭🇰 香港2|@ripaojiedian
+  name: 11|🇭🇰 香港2|@ripaojiedian
   password: 1450cecfb93f
   plugin: v2ray-plugin
   plugin-opts:
@@ -42,7 +56,7 @@ proxies:
   type: ss
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 12|🇭🇰 香港2|@ripaojiedian 2
+  name: 11|🇭🇰 香港2|@ripaojiedian 2
   password: 08293b204707
   plugin: v2ray-plugin
   plugin-opts:
@@ -57,7 +71,7 @@ proxies:
   tfo: false
   type: ss
 - client-fingerprint: chrome
-  name: 12,13|香港3|@ripaojiedian
+  name: 11,12|香港3|@ripaojiedian
   network: tcp
   password: 85f133142f04dbf6547da33895cfabb3
   port: 39001
@@ -66,7 +80,7 @@ proxies:
   sni: www.yrtok.com
   type: trojan
 - client-fingerprint: chrome
-  name: 12,13|香港4|@ripaojiedian
+  name: 11,12|香港4|@ripaojiedian
   network: tcp
   password: 85f133142f04dbf6547da33895cfabb3
   port: 39001
@@ -77,7 +91,7 @@ proxies:
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
-  name: 12|🇸🇬 新加坡3|@ripaojiedian
+  name: 11|🇸🇬 新加坡3|@ripaojiedian
   port: 31209
   server: 120.232.153.40
   skip-cert-verify: false
@@ -88,7 +102,7 @@ proxies:
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
-  name: 12,13|香港6|@ripaojiedian
+  name: 11,12|香港6|@ripaojiedian
   network: ws
   port: '30809'
   server: v9.heduian.link
@@ -104,7 +118,7 @@ proxies:
     path: /oooo
 - alterId: 0
   cipher: auto
-  name: 13|香港7|@ripaojiedian
+  name: 12|香港7|@ripaojiedian
   network: tcp
   port: '20332'
   server: 43.247.135.2
@@ -114,7 +128,7 @@ proxies:
   uuid: 8037ce00-c860-4213-b888-be5c7ed6ea48
 - alterId: 64
   cipher: auto
-  name: 13|新加坡3|@ripaojiedian
+  name: 12|新加坡3|@ripaojiedian
   network: tcp
   port: '31209'
   server: 120.232.153.40

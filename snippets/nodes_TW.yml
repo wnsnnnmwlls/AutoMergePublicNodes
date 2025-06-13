@@ -1,1 +1,8 @@
-proxies: []
+proxies:
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇹🇼台湾 101 | 1x TW
+  password: cb2b2f72-2fe3-4fe7-b9d9-00d1384d07e4
+  port: 31241
+  server: freem.vidalith.com
+  type: ss
+  udp: true

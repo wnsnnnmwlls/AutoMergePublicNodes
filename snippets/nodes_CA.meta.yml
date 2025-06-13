@@ -1,5 +1,12 @@
 proxies:
-- name: '11|Channel id: @ShadowProxy66🇨🇦'
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇨🇦加拿大 101 | 1x CA
+  password: cb2b2f72-2fe3-4fe7-b9d9-00d1384d07e4
+  port: 31441
+  server: freem.vidalith.com
+  type: ss
+  udp: true
+- name: '10|Channel id: @ShadowProxy66🇨🇦'
   password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
   port: 45979
   server: 40.233.70.163

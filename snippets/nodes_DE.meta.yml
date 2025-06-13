@@ -1,4 +1,11 @@
 proxies:
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇩🇪德国 101 | 1x DE
+  password: cb2b2f72-2fe3-4fe7-b9d9-00d1384d07e4
+  port: 31471
+  server: freem.vidalith.com
+  type: ss
+  udp: true
 - name: 1|🇩🇪1 |  1.5MB/s|0%|Openai
   network: ws
   port: '80'
