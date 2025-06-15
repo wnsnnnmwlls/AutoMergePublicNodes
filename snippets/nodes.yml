@@ -1,420 +1,420 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
   name: 0|🇭🇰香港 101 | 1x HK
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31141
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇭🇰香港 102 | 1x HK
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31143
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇭🇰香港家宽 103 | 1x HK
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31145
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇹🇼台湾 101 | 1x TW
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31241
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇸🇬新加坡 101 | 1x SG
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31171
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇸🇬新加坡 102 | 1x SG
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31173
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇸🇬新加坡 103 | 1x SG
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31175
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇰🇷韩国 101 | 1x KR
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31311
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇰🇷韩国 102 | 1x KR
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31313
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇵🇭菲律宾 101 | 1x PH
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31341
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇺🇸美国 101 | 1x US Los Angeles
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31211
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇺🇸美国家宽 102 | 1x US Los Angeles
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31213
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇺🇸美国 103 | 1x US Washington
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31215
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇪🇸西班牙 101 | 1x ES
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31741
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇲🇾马来西亚 101 | 1x MY
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31721
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇲🇾马来西亚 102 | 1x MY
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31722
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇹🇭泰国101  | 1x TH
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31731
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇮🇳印度 101 | 1x IN
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31371
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇦🇺澳大利亚 101 | 1x AU
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31411
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇨🇦加拿大 101 | 1x CA
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31441
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇩🇪德国 101 | 1x DE
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31471
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇷🇺俄罗斯 101 | 1x RU
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31511
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇦🇷阿根廷 101 | 1x AR
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31541
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇹🇷土耳其 101 | 1x TR
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31571
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇺🇦乌克兰 101 | 1x UA
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31611
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇻🇳越南 101 | 1x VN
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31641
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇧🇷巴西 101 | 1x BR
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31671
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 0|🇮🇩印度尼西亚 101 | 1x ID
-  password: b93c9fcf-44ca-4025-931d-29ebb2a3901a
+  password: 33e4dd76-4df3-4424-9ff4-2cd1b997005a
   port: 31677
   server: freem.vidalith.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇭🇰 香港 101 | 1x HK
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36141
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇭🇰 香港 102 | 1x HK
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36143
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇭🇰 香港住宅IP 103 | 1x HK
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36145
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇹🇼 台湾 101 | 1x TW
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36241
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇹🇼 台湾 102 | 1x TW
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36243
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇹🇼 台湾 103 | 1x TW
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36245
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇯🇵 日本 101 | 1x JP
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36111
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇯🇵 日本 102 | 1x JP
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36113
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇯🇵 日本 103 | 1x JP
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36115
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇸🇬 新加坡 101 | 1x SG
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36171
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇸🇬 新加坡 102 | 1x SG
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36173
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇰🇷 韩国 101 | 1x KR
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36311
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇰🇷 韩国 102 | 1x KR
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36313
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇵🇭 菲律宾 101 | 1x PH
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36341
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇺🇸 美国 101 | 1x US Los Angeles
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36211
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇺🇸 美国住宅IP 102 | 1x US Los Ange...
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36213
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇺🇸 美国 103 | 1x US Washington
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36215
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇬🇧 英国 102 | 1x UK
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36273
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: '1|🇲🇾马来西亚 101 | 1x MY #1'
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36721
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇮🇳西班牙 101 | 1x ES
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36741
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇹🇭泰国 101 | 1x TH
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36731
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇮🇳 印度 101 | 1x IN
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36371
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇦🇺 澳大利亚 101 | 1x AU
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36411
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇨🇦 加拿大 101 | 1x CA
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36441
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇩🇪 德国 101 | 1x DE
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36471
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇷🇺 俄罗斯 101 | 1x RU
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36511
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇦🇷 阿根廷 101 | 1x AR
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36541
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇹🇷 土耳其 101 | 1x TR
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36571
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇺🇦 乌克兰 101 | 1x UA
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36611
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇻🇳 越南 101 | 1x VN
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36641
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇧🇷 巴西 101 | 1x BR
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36671
   server: freea.glyphara.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 1|🇮🇩 印度尼西亚 101 | 1x ID
-  password: 01987fe0-08ff-4d4a-8322-738ee657f073
+  password: a24d6d95-4e9a-41c0-a830-6a1f95e5c636
   port: 36677
   server: freea.glyphara.com
   type: ss
