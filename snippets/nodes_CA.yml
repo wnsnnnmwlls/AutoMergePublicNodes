@@ -1,5 +1,12 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
+  name: 0|🇨🇦加拿大 101 | 1x CA
+  password: 051b7e6b-bb5a-4562-b78c-6a0ad066bb0a
+  port: 31441
+  server: freem.vidalith.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
   name: 14|🇨🇦 加拿大 101 | 1x CA
   password: 0696e76e-00be-4594-bfb5-9f86b91c2c5a
   port: 36441
