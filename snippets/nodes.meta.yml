@@ -1801,9 +1801,9 @@ proxies:
   type: hysteria2
 - cipher: aes-256-cfb
   name: 12|tg频道:@ripaojiedian
-  password: qawszxc123
+  password: yijian0503
   port: 443
-  server: 13.250.23.45
+  server: 13.125.235.34
   tfo: false
   type: ss
 - alterId: 2
@@ -1860,25 +1860,31 @@ proxies:
   server: 120.232.220.156
   tfo: false
   type: ss
+- cipher: aes-256-gcm
+  name: 12|🇭🇰 香港6|@ripaojiedian
+  password: dwz1GtF7
+  port: 30017
+  server: 111.45.33.5
+  tfo: false
+  type: ss
+- cipher: aes-256-gcm
+  name: 12|🇹🇼 台湾|@ripaojiedian
+  password: dwz1GtF7
+  port: 30015
+  server: 120.233.128.98
+  tfo: false
+  type: ss
 - cipher: rc4-md5
   name: 12|🇯🇵 日本|@ripaojiedian
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202506131022370-N03InetROm.download.microsoft.com
+    host: 202506131022370-otfFVq2eVC.download.microsoft.com
     mode: http
   port: 8766
   server: cn01.efan8867801.xyz
   tfo: false
   type: ss
-- name: 12,13|日本3|@ripaojiedian
-  network: tcp
-  password: 278d70a0-ac4b-41fd-a66a-8bd84cdd852c
-  port: 28713
-  server: wb.kaiqsz.com
-  skip-cert-verify: true
-  sni: mmbiz1.redapricotcloud.com
-  type: trojan
 - cipher: aes-256-gcm
   name: 12|🇯🇵 日本2|@ripaojiedian
   password: 9acff807c3cc
@@ -1894,11 +1900,26 @@ proxies:
   server: 163.61.206.64
   tfo: false
   type: ss
+- name: 12,13|日本3|@ripaojiedian
+  network: tcp
+  password: 278d70a0-ac4b-41fd-a66a-8bd84cdd852c
+  port: 28713
+  server: wb.kaiqsz.com
+  skip-cert-verify: true
+  sni: mmbiz1.redapricotcloud.com
+  type: trojan
 - cipher: aes-256-gcm
   name: 12|🇯🇵 日本5|@ripaojiedian
   password: dwz1GtF7
   port: 30232
   server: 112.54.160.36
+  tfo: false
+  type: ss
+- cipher: aes-256-gcm
+  name: 12|🇰🇷 韩国|@ripaojiedian
+  password: dwz1GtF7
+  port: 20406
+  server: 112.54.161.141
   tfo: false
   type: ss
 - name: 12,13|韩国2|@ripaojiedian
@@ -1960,7 +1981,7 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202506131022370-N03InetROm.download.microsoft.com
+    host: 202506131022370-otfFVq2eVC.download.microsoft.com
     mode: http
   port: 8774
   server: cn01.efan8867801.xyz
@@ -1982,13 +2003,6 @@ proxies:
     headers:
       Host: dddddddddd4.222560.xyz
     path: /iXfi0mMmPYp9UA6Y34zWUk6JUQ
-- cipher: aes-256-gcm
-  name: 12|🇷🇺 俄罗斯|@ripaojiedian
-  password: ae627920168c1cce
-  port: 50120
-  server: 185.22.154.123
-  tfo: false
-  type: ss
 - alterId: 0
   cipher: auto
   name: 13|台湾v2|@ripaojiedian
