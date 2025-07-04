@@ -105,7 +105,7 @@ proxies:
     headers:
       Host: wwwspeedtestnetwhiteberinsistomd6625996s08.gorgeserver1.ir
     path: /
-- name: '10|Channel id: @ShadowProxy66🇫🇷'
+- name: '11|Channel id: @ShadowProxy66🇫🇷'
   password: dongtaiwang.com
   port: 31180
   server: 51.159.111.32
@@ -113,7 +113,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: 13|FR_speednode_0053
+- name: 14|FR_speednode_0053
   network: ws
   port: 8880
   server: 141.11.203.77
@@ -127,7 +127,7 @@ proxies:
     headers:
       Host: free.cfdns.online
     path: /Telegram🇨🇳 @WangCai2 /?ed=2560
-- name: 13|FR_speednode_0054
+- name: 14|FR_speednode_0054
   network: ws
   port: 8880
   server: 185.16.110.77
@@ -141,7 +141,7 @@ proxies:
     headers:
       Host: free.cfdns.online
     path: /Telegram🇨🇳 @WangCai2 /?ed=2560
-- name: 13|FR_speednode_0056
+- name: 14|FR_speednode_0056
   network: ws
   port: 8880
   server: 141.11.203.177
@@ -156,7 +156,7 @@ proxies:
       Host: ip.langmanshanxi.top
     path: /Telegram🇨🇳 @WangCai2
 - client-fingerprint: chrome
-  name: 13|FR_speednode_0057
+  name: 14|FR_speednode_0057
   port: 2333
   reality-opts:
     public-key: B0iyLON-ED76Ok1x3v5oGAvRHvKYyldQL70dAQHeKVk
