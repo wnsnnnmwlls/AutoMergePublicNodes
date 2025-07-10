@@ -1830,7 +1830,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '9,10|@vpnv2r4y✔️㉿ ᵛᵖⁿ یوتیوب️ #1'
+- name: '9,10|NetAccount #2'
   password: nfsn666
   port: 8888
   server: 45.207.222.138
@@ -2131,6 +2131,33 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 10|@VpnFreak |Trade2|
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: 6E7ZX07Att
+  port: 19338
+  server: v2raybluecrystal.3dfigures.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|@VpnFreak |Trade1|
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: 6E7ZX07Att
+  port: 40408
+  server: v2raybluecrystal.3dfigures.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 10|@VpnFreak |Trade3|
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: 6E7ZX07Att
+  port: 47294
+  server: v2raybluecrystal.3dfigures.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: '10|@V2rayNG3 #3'
   password: 75577117-ABCD-DCBA-AAAA-CC777775577B
   port: 7777
@@ -2139,7 +2166,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 10|@vpnv2r4y️  یو️
+- name: 10|NetAccount
   password: 8418fb71-419d-4fc3-8b29-d7fee8de76c7
   port: 443
   server: 104.168.34.109
@@ -2247,7 +2274,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '10|Telegram:@config_proxy '
+- name: 10|@Mahdi2000_m ql_0366
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -2308,7 +2335,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 10|@vpnv2r4y✔️㉿ ᵛᵖⁿ یوتیوب️
+- name: '10|NetAccount #1'
   password: be81e21d-02d8-4a60-a07e-c2202a50a549
   port: 26923
   server: yjjdhl.yunjijd.xyz
@@ -2447,7 +2474,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '10|Telegram:@config_proxy  #1'
+- name: '10|Telegram:@config_proxy '
   password: nfsn666
   port: 8888
   server: hk.nfsn666.gq
