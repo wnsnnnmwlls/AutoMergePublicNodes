@@ -2014,6 +2014,14 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 10|10 ：https://dafei.de
+  password: 67828a6e-0144-4e57-8169-2447a3dd2e61
+  port: 45000
+  server: 23.80.81.213
+  skip-cert-verify: true
+  sni: www.apple.com
+  tls: false
+  type: hysteria2
 - name: 10|@VpnFreak |Trade2|
   obfs: salamander
   obfs-password: v2raybluecrystal
