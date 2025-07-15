@@ -2001,6 +2001,14 @@ proxies:
   sni: 1231231.1234567890spcloud.com
   tls: false
   type: hysteria2
+- name: 10|@Darktunnel_official
+  password: 60543cda-8960-49c9-9ac5-0a9acb316e07
+  port: 26923
+  server: yjjdhl.yunjijd.xyz
+  skip-cert-verify: true
+  sni: yjjdhl.yunjijd.xyz
+  tls: false
+  type: hysteria2
 - name: 10| @game_file2020
   password: 621187c3-859d-4682-aac1-cd4500f9690e
   port: 17169
@@ -2304,6 +2312,22 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: '10|Telegram:@config_proxy '
+  password: 867f512f-93d2-4344-853c-50965de9b103
+  port: 55215
+  server: shy38.zqjc.cloud
+  skip-cert-verify: false
+  sni: shy38.zqjc.cloud
+  tls: false
+  type: hysteria2
+- name: 10|Telegram:@config_proxy 😍
+  password: 867f512f-93d2-4344-853c-50965de9b103
+  port: 55215
+  server: shy42.zqjc.cloud
+  skip-cert-verify: false
+  sni: shy42.zqjc.cloud
+  tls: false
+  type: hysteria2
 - name: '10|美国10 付费推荐：https://dafei.de #1'
   password: 8a104bc2-a8d1-4f38-8c29-17176a68b7d5
   port: 45000
@@ -2551,6 +2575,33 @@ proxies:
   password: k1sCJ4SJQj
   port: 501
   server: p1.3dfigures.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '10|v2raybluecrystal2 #1'
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: o753T2a9zD
+  port: 18865
+  server: v2raybluecrystal3.3dfigures.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '10|v2raybluecrystal #1'
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: o753T2a9zD
+  port: 20675
+  server: v2raybluecrystal3.3dfigures.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '10|v2raybluecrystal3 #1'
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: o753T2a9zD
+  port: 50757
+  server: v2raybluecrystal3.3dfigures.ir
   skip-cert-verify: true
   tls: false
   type: hysteria2
