@@ -118,7 +118,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 9|FR
+- name: '9,10|Telegram:@config_proxy  #1'
   password: 45b46edb-679b-4ea5-befd-88c05bb94f80
   port: 2056
   server: de.eyucdn.xyz
@@ -552,6 +552,14 @@ proxies:
   sni: hg.myyfqh.tech
   tls: false
   type: hysteria2
+- name: 10| @Cyber_Ta🌐
+  password: 0a0f1f4a-40d9-47b4-aca5-0b281daea3bb
+  port: 443
+  server: us.myyfqh.tech
+  skip-cert-verify: false
+  sni: us.myyfqh.tech
+  tls: false
+  type: hysteria2
 - name: 10|none
   password: 1045aedf-053c-4585-875d-e2fc3f3ea6dd
   port: 43429
@@ -634,7 +642,7 @@ proxies:
   sni: real.getafreenode.sbs
   tls: false
   type: hysteria2
-- name: 10| @Cyber_Ta🌐
+- name: '10| @Cyber_Ta🌐 #1'
   password: 862e90e1-2f26-4506-b8b9-0adf20da05fc
   port: 47262
   server: 40.233.73.221
@@ -752,6 +760,14 @@ proxies:
   server: yapc-1.adamhayward.co.uk
   skip-cert-verify: false
   sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: 10|Telegram:@config_proxy 😍
+  password: a503efc7-b681-466f-be23-434483b2a07b
+  port: 22158
+  server: hsfg.huasuan666.top
+  skip-cert-verify: true
+  sni: hsfg.huasuan666.top
   tls: false
   type: hysteria2
 - name: '10|🇪   - '
