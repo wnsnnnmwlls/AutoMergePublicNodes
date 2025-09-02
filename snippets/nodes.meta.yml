@@ -86,7 +86,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '8,9|@Daily_Configs #1'
+- name: '8|SG #1'
   password: 3hszBhqVsUhqOOFWJlev6k6Tkc
   port: 22509
   server: 47.129.224.62
@@ -166,7 +166,7 @@ proxies:
   sni: file-oss-ccs-02.dafei.de
   tls: false
   type: hysteria2
-- name: 8,9|ان های ی د نل ترا💎 Config_Raye...
+- name: '8,9|🇩🇪@FreakConfig #1'
   password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28
   port: 31468
   server: 77.223.214.193
@@ -237,7 +237,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '8,9|@Daily_Configs #5'
+- name: '8|Channel id: @proxy_kafee🇬'
   password: RzQrEkAmnGs86IhmSVUk9Q5cn9M
   port: 30308
   server: 47.236.104.81
@@ -355,7 +355,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8,9|未命名 #4'
+- name: 8,9|🇨🇵@FreakConfig
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
@@ -467,47 +467,6 @@ proxies:
   sni: chervhill.hajalii.com
   tls: false
   type: hysteria2
-- name: 9|@V2rayNG3
-  password: 15cca331-9e92-449d-93b0-25f82203595f
-  port: 20309
-  server: gb.gomeow.online
-  skip-cert-verify: false
-  sni: gb.gomeow.online
-  tls: false
-  type: hysteria2
-- name: 9| @Hddify
-  password: 1fdb6b30-5371-4ff8-a001-efdc4b43d79b
-  port: 43429
-  server: 185.126.255.78
-  skip-cert-verify: false
-  sni: real.getafreenode.sbs
-  tls: false
-  type: hysteria2
-- name: '9|@V2rayNG3 #1'
-  obfs: salamander
-  obfs-password: de8287cd33b05fa3
-  password: 22f2c759db51b3d0
-  port: 12122
-  server: 109.120.135.123
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 9|@Daily_Configs
-  password: 2429bee3-e0c1-47dd-b420-75e6512b184b
-  port: 30300
-  server: 40.233.102.224
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 9|@meli_proxyy
-  password: 287ca8c3-267f-4ba4-a48a-683c450d07f2
-  port: 27063
-  server: b3cc762f4cb7.anondns.net
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
 - name: 9|🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها او ر...
   password: 3QlSMKyqLp
   port: 443
@@ -524,70 +483,10 @@ proxies:
   sni: real.getafreenode.sbs
   tls: false
   type: hysteria2
-- name: '9|@V2rayNG3 #2'
-  password: 75577117-ABCD-DCBA-AAAA-CC777775577B
-  port: 7777
-  server: s15.serv00.com
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: '9|🇩🇪@FreakConfig #2'
   password: 88984417-da74-4a6e-a6fe-9336adf8e644
   port: 20340
   server: 77.90.50.59
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '9|@Daily_Configs #3'
-  password: 8b583292-c936-4723-a8c7-8adb8ecf5044
-  port: 22154
-  server: hsxjp.huasuan666.top
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 9|→ @Hddify
-  password: 942b9cb8-92fa-46ac-ae91-f69c8234434b
-  port: 43429
-  server: 185.126.255.78
-  skip-cert-verify: false
-  sni: real.getafreenode.sbs
-  tls: false
-  type: hysteria2
-- name: '9|@V2rayNG3 #3'
-  obfs: salamander
-  obfs-password: '@azadi_az_inja_migzare'
-  password: '@azadi_az_inja_migzare'
-  port: 443
-  server: all-v4.dgi000.store
-  skip-cert-verify: false
-  sni: all-v4.dgi000.store
-  tls: false
-  type: hysteria2
-- name: '9|@V2rayNG3 #4'
-  obfs: salamander
-  obfs-password: bipbip
-  password: AtTK3tiEA0
-  port: 19037
-  server: p1.punchline.ir
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '9|@V2rayNG3 #5'
-  obfs: salamander
-  obfs-password: bleepbloop
-  password: AtTK3tiEA0
-  port: 2087
-  server: p1.punchline.ir
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '9|@V2rayNG3 #6'
-  obfs: salamander
-  obfs-password: bluhbluh
-  password: AtTK3tiEA0
-  port: 44929
-  server: p1.punchline.ir
   skip-cert-verify: true
   tls: false
   type: hysteria2
@@ -617,16 +516,6 @@ proxies:
   sni: anymath.ir
   tls: false
   type: hysteria2
-- name: 9|+@Azarakhsh_Proxy+
-  obfs: salamander
-  obfs-password: KevinZakarian
-  password: KevinZakarian
-  port: 8443
-  server: 179.61.132.96
-  skip-cert-verify: true
-  sni: 179.61.132.96
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
   name: '9|@Change_IP1-HYS #1'
@@ -647,13 +536,6 @@ proxies:
   port: 443
   server: 147.45.154.150
   sni: anymath.ir
-  tls: false
-  type: hysteria2
-- name: '9|@Daily_Configs #4'
-  password: NjEkAYYNqFKUbrksyW1COBtdpU
-  port: 2428
-  server: 47.239.220.214
-  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: '9|@FreakConfig #1'
@@ -697,50 +579,14 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 9|💎کانفیگ های بیشتر در چنل تلگرا...
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 36300
-  server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: false
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: '9|𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2rayTun0'
+- name: '9|🇳🇱@FreakConfig #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
   port: 36600
   server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: true
+  skip-cert-verify: false
   sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: '9|@V2rayNG3 #7'
-  password: dongtaiwang.com
-  port: 50717
-  server: 46.17.41.189
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '9|@Daily_Configs #7'
-  password: eb75320e-a6d0-4b34-a6b6-2bcfc96a9099
-  port: 43057
-  server: 203.174.82.145
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '9|@V2rayNG3 #8'
-  obfs: salamander
-  obfs-password: dbc688df29e582d3
-  password: f8e40931bbb827df
-  port: 12123
-  server: 62.60.231.189
-  skip-cert-verify: true
-  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: '9|🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #1'
